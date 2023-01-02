@@ -71,11 +71,6 @@
 
 ## Recent Blog Posts  
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21gqe7q3rzlxztou3gn7jzgyi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
-<br />
-
 <div align="center">
             <a href="https://paypal.me/huaripaz" target="_blank" style="display: inline-block;">
                 <img
@@ -84,5 +79,11 @@
                 />
             </a></div>
 <br />
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21gqe7q3rzlxztou3gn7jzgyi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
+<br />
+
 
 ----
