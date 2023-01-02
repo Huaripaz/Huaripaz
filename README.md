@@ -76,4 +76,13 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21gqe7q3rzlxztou3gn7jzgyi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
 <br />
 
+<div align="center">
+            <a href="https://paypal.me/huaripaz" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
 ----
