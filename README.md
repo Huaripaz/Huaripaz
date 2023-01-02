@@ -76,6 +76,7 @@
                 />
             </a></div>
 <br />
+
 ## Recent Blog Posts  
 <br/>  
 
