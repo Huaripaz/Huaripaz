@@ -1,28 +1,28 @@
-# <div align="center">Hi 👋, I'm Huari Patey Paz</div>  
+# <div align="center">Hola 👋 soy Huari Patey Paz</div>  
   
 
-### <div align="center">👨‍💻 I am a Full Stack Developer from Argentina 🚀</div>  
+### <div align="center">👨‍💻 Soy un Desarrollador Full Stack de Argentina 🚀</div>  
   
 
-- 🌱 I’m currently learning Python, Django & MongoDB  
+- 🌱 Actualmente estoy aprendiendo Python, Django y MongoDB.  
   
 
-- 💬 Ask me about JavaScript, PostgreSQL, Node.JS, Express, Git, HTML, CSS, React, SQL.  
+- 💬 Preguntame sobre JavaScript, PostgreSQL, Node.JS, Express, Git, HTML, CSS, React, SQL.  
   
 
-- 📫 How to reach me huaripateypaz@hotmail.com or pateypazhuari@gmail.com  
+- 📫 Contactame huaripateypaz@hotmail.com o pateypazhuari@gmail.com  
   
 
-- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/huari-patey-paz-17588924a/)  
+- 📄 Conoce mis experiencias en [Linkedin](https://www.linkedin.com/in/huari-patey-paz-17588924a/)  
   
 
-- ⚡ Fun fact I am a Videogame lover  
+- ⚡ Dato curioso soy un amante de los videojuegos  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Mi conjunto de habilidades  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -44,7 +44,7 @@
 <br/>  
 
 
-## Github Stats  
+## Estadísticas de Github  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Huaripaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaripaz&hide_border=true&layout=compact" align="center" /></div>  
@@ -52,7 +52,7 @@
 <br/>  
 
 
-## Connect with me  
+## Conectate conmigo  
 <div align="center">
 <a href="https://github.com/Huaripaz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -77,7 +77,7 @@
             </a></div>
 <br />
 
-## Recent Blog Posts  
+## Blogs recientes
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21gqe7q3rzlxztou3gn7jzgyi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
