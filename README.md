@@ -4,13 +4,13 @@
 ### <div align="center">👨‍💻 Soy un Desarrollador Full Stack de Argentina 🚀</div>  
   
 
-- 🌱 Actualmente estoy aprendiendo Python, Django y MongoDB.  
+-  📍 Visita mi [Portafolio](https://huaripaz.github.io/) creado con HTML, CSS y TypeScrypt 
   
 
-- 💬 Preguntame sobre JavaScript, PostgreSQL, Node.JS, Express, Git, HTML, CSS, React, SQL.  
+- 💬 Preguntame sobre TypeScript, PostgreSQL, Node.JS, Express, Git, HTML, CSS, React, SQL.  
   
 
-- 📫 Contactame huaripateypaz@hotmail.com o pateypazhuari@gmail.com  
+- 📫 Contactame huaripateypaz@hotmail.com  
   
 
 - 📄 Conoce mis experiencias en [Linkedin](https://www.linkedin.com/in/huari-patey-paz-17588924a/)  
